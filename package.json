@@ -1,0 +1,26 @@
+{
+  "name": "pdp-project-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisma/pdp-project-mongo.git"
+  },
+  "keywords": [],
+  "author": "Jason Kuhrt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prisma/pdp-project-mongo/issues"
+  },
+  "homepage": "https://github.com/prisma/pdp-project-mongo#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.0",
+    "prisma": "^3.2.1",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
